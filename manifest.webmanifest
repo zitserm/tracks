@@ -1,5 +1,5 @@
 {
-  "name": "Track Measure",
+  "name": "Tracks",
   "short_name": "Tracks",
   "description": "Measure animal tracks and signs from a photo using a reference object of known size.",
   "start_url": "./index.html",
